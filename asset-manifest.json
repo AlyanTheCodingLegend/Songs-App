@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Songs-App/static/css/main.e2f841cc.css",
-    "main.js": "/Songs-App/static/js/main.74241be7.js",
+    "main.css": "/Songs-App/static/css/main.1a4ea879.css",
+    "main.js": "/Songs-App/static/js/main.0ac0f5ba.js",
     "static/js/952.fecd77e6.chunk.js": "/Songs-App/static/js/952.fecd77e6.chunk.js",
     "static/js/453.b9b4a01c.chunk.js": "/Songs-App/static/js/453.b9b4a01c.chunk.js",
     "index.html": "/Songs-App/index.html",
-    "main.e2f841cc.css.map": "/Songs-App/static/css/main.e2f841cc.css.map",
-    "main.74241be7.js.map": "/Songs-App/static/js/main.74241be7.js.map",
+    "main.1a4ea879.css.map": "/Songs-App/static/css/main.1a4ea879.css.map",
+    "main.0ac0f5ba.js.map": "/Songs-App/static/js/main.0ac0f5ba.js.map",
     "952.fecd77e6.chunk.js.map": "/Songs-App/static/js/952.fecd77e6.chunk.js.map",
     "453.b9b4a01c.chunk.js.map": "/Songs-App/static/js/453.b9b4a01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2f841cc.css",
-    "static/js/main.74241be7.js"
+    "static/css/main.1a4ea879.css",
+    "static/js/main.0ac0f5ba.js"
   ]
 }
