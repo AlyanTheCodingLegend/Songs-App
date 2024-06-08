@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b4ab8eb.css",
-    "main.js": "/static/js/main.a7262f1c.js",
-    "static/js/952.fecd77e6.chunk.js": "/static/js/952.fecd77e6.chunk.js",
-    "static/js/453.b9b4a01c.chunk.js": "/static/js/453.b9b4a01c.chunk.js",
-    "index.html": "/index.html",
-    "main.6b4ab8eb.css.map": "/static/css/main.6b4ab8eb.css.map",
-    "main.a7262f1c.js.map": "/static/js/main.a7262f1c.js.map",
-    "952.fecd77e6.chunk.js.map": "/static/js/952.fecd77e6.chunk.js.map",
-    "453.b9b4a01c.chunk.js.map": "/static/js/453.b9b4a01c.chunk.js.map"
+    "main.css": "/SynthureAI/static/css/main.6b4ab8eb.css",
+    "main.js": "/SynthureAI/static/js/main.ca8d91cb.js",
+    "static/js/952.fecd77e6.chunk.js": "/SynthureAI/static/js/952.fecd77e6.chunk.js",
+    "static/js/453.b9b4a01c.chunk.js": "/SynthureAI/static/js/453.b9b4a01c.chunk.js",
+    "index.html": "/SynthureAI/index.html",
+    "main.6b4ab8eb.css.map": "/SynthureAI/static/css/main.6b4ab8eb.css.map",
+    "main.ca8d91cb.js.map": "/SynthureAI/static/js/main.ca8d91cb.js.map",
+    "952.fecd77e6.chunk.js.map": "/SynthureAI/static/js/952.fecd77e6.chunk.js.map",
+    "453.b9b4a01c.chunk.js.map": "/SynthureAI/static/js/453.b9b4a01c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b4ab8eb.css",
-    "static/js/main.a7262f1c.js"
+    "static/js/main.ca8d91cb.js"
   ]
 }
