@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Songs-App/static/css/main.32129239.css",
-    "main.js": "/Songs-App/static/js/main.f520fb91.js",
-    "static/js/952.fecd77e6.chunk.js": "/Songs-App/static/js/952.fecd77e6.chunk.js",
-    "static/js/453.b9b4a01c.chunk.js": "/Songs-App/static/js/453.b9b4a01c.chunk.js",
-    "index.html": "/Songs-App/index.html",
-    "main.32129239.css.map": "/Songs-App/static/css/main.32129239.css.map",
-    "main.f520fb91.js.map": "/Songs-App/static/js/main.f520fb91.js.map",
-    "952.fecd77e6.chunk.js.map": "/Songs-App/static/js/952.fecd77e6.chunk.js.map",
-    "453.b9b4a01c.chunk.js.map": "/Songs-App/static/js/453.b9b4a01c.chunk.js.map"
+    "main.css": "/static/css/main.6b4ab8eb.css",
+    "main.js": "/static/js/main.49160932.js",
+    "static/js/952.fecd77e6.chunk.js": "/static/js/952.fecd77e6.chunk.js",
+    "static/js/453.b9b4a01c.chunk.js": "/static/js/453.b9b4a01c.chunk.js",
+    "index.html": "/index.html",
+    "main.6b4ab8eb.css.map": "/static/css/main.6b4ab8eb.css.map",
+    "main.49160932.js.map": "/static/js/main.49160932.js.map",
+    "952.fecd77e6.chunk.js.map": "/static/js/952.fecd77e6.chunk.js.map",
+    "453.b9b4a01c.chunk.js.map": "/static/js/453.b9b4a01c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32129239.css",
-    "static/js/main.f520fb91.js"
+    "static/css/main.6b4ab8eb.css",
+    "static/js/main.49160932.js"
   ]
 }
